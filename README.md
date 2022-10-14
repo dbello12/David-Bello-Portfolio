@@ -1,4 +1,4 @@
-## Candidate Selection Process - Machine Learning Project
+## [Candidate Selection Process - Machine Learning Project](https://github.com/dbello12/Assessment_Process-ML_Project)
 
 This project develops a ML classification model trained on the results of the in-person interview as target labels to predict whether a candidate is likely to be given the “ready” score based on the results of the pre-interview survey. The ML model will be deployed in a web application using Flask. 
 
